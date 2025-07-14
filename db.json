@@ -1,0 +1,95 @@
+{
+
+  "stats": {
+    "projects": 3,         
+    "commits": 850,        
+    "blogPosts": 2,        
+    "clients": 4           
+  },
+
+  "projects": [
+    {
+      "id": 1,
+      "name": "ClientPoint Enterprise Solutions",
+      "role": "Frontend Engineer",
+      "year": 2023,
+      "stack": ["React", "TypeScript", "Redux Toolkit", "Material-UI"],
+      "description": "Modular B2B SaaS platform. Built reusable UI components, integrated REST APIs, optimised performance via code-splitting & memoisation.",
+      "url": "https://clientpoint.example.com"  
+    },
+    {
+      "id": 2,
+      "name": "Peak IT – Consulting & Project Management",
+      "role": "Full-stack React Developer",
+      "year": 2024,
+      "stack": ["React", "Redux", "Context API", "GenAI APIs"],
+      "description": "Responsive SPA for project tracking and collaboration; added AI-driven code generation and content summarisation features.",
+      "url": "https://peakit.example.com"
+    },
+    {
+      "id": 3,
+      "name": "TourO Bikes – Mobility Platform",
+      "role": "Frontend Engineer",
+      "year": 2025,
+      "stack": ["React", "TypeScript", "Bootstrap"],
+      "description": "Bike-rental booking flow with real-time availability, secure payments and performance-optimised UI.",
+      "url": "https://touro.example.com"
+    }
+  ],
+
+  "skills": [
+    { "id": 1, "category": "Languages",      "name": "JavaScript (ES6+)" },
+    { "id": 2, "category": "Languages",      "name": "TypeScript" },
+    { "id": 3, "category": "Frameworks",     "name": "React.js" },
+    { "id": 4, "category": "Frameworks",     "name": "Redux Toolkit" },
+    { "id": 5, "category": "Frameworks",     "name": "Context API" },
+    { "id": 6, "category": "Styling",        "name": "Tailwind CSS" },
+    { "id": 7, "category": "Styling",        "name": "Material-UI" },
+    { "id": 8, "category": "Styling",        "name": "Bootstrap" },
+    { "id": 9, "category": "Tooling",        "name": "Git & GitHub" },
+    { "id": 10,"category": "Tooling",        "name": "Jira" },
+    { "id": 11,"category": "Testing",        "name": "Jest" },
+    { "id": 12,"category": "Dev Ops",        "name": "Linux / macOS / Windows" }
+  ],
+
+
+  "experience": [
+    {
+      "id": 1,
+      "company": "Softobiz Technologies",
+      "role": "Associate Software Engineer",
+      "location": "Mohali, IN",
+      "start": "2022-07-01",
+      "end": null,  
+      "responsibilities": [
+        "Owned front-end delivery for multiple SaaS & mobility projects.",
+        "Integrated REST APIs, implemented lazy-loading and memoisation for performance.",
+        "Collaborated in agile teams; participated in code reviews and sprint ceremonies."
+      ]
+    }
+  ],
+
+  "commitsPerMonth": [
+    { "month": "2024-08", "count": 55 },
+    { "month": "2024-09", "count": 63 },
+    { "month": "2024-10", "count": 70 },
+    { "month": "2024-11", "count": 62 },
+    { "month": "2024-12", "count": 80 },
+    { "month": "2025-01", "count": 92 },
+    { "month": "2025-02", "count": 75 },
+    { "month": "2025-03", "count": 69 },
+    { "month": "2025-04", "count": 71 },
+    { "month": "2025-05", "count": 87 },
+    { "month": "2025-06", "count": 76 },
+    { "month": "2025-07", "count": 50 }
+  ],
+  "techUsage": [
+    { "tech": "React",        "percent": 45 },
+    { "tech": "TypeScript",   "percent": 25 },
+    { "tech": "Redux Toolkit","percent": 15 },
+    { "tech": "Tailwind",     "percent": 10 },
+    { "tech": "Other",        "percent": 5 }
+  ],
+
+  "contactRequests": []
+}
